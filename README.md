@@ -1,4 +1,4 @@
-# ebru
+# WeatherApp sample project
 
 ## Project setup
 ```
